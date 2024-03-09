@@ -3,6 +3,8 @@
 # 资源介绍
 
 ![image](https://github.com/Cl1brary/Akebi-GC/assets/162841169/237829e9-5d37-462d-9eb6-005913e26b89)
+![image](https://github.com/Cl1brary/Akebi-GC/assets/162841169/4a3b0aad-37f4-4aa8-8b70-7eda569df83b)
+
 
 
 更新记录3.5正式版
